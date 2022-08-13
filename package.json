@@ -1,0 +1,14 @@
+{
+  "name": "asynchronous-js",
+  "version": "1.0.0",
+  "description": "Learning Promises and async/await statements",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Alexandre Chavane",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^8.0.0"
+  }
+}
